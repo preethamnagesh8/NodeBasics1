@@ -1,0 +1,27 @@
+{
+  "name": "nodebasics1",
+  "version": "1.0.0",
+  "description": "Sample Node Application to demonstrate Express JS Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preethamnagesh8/NodeBasics1.git"
+  },
+  "keywords": [
+    "Node",
+    "Express"
+  ],
+  "author": "Preetham Nagesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/preethamnagesh8/NodeBasics1/issues"
+  },
+  "homepage": "https://github.com/preethamnagesh8/NodeBasics1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.18.10"
+  }
+}
